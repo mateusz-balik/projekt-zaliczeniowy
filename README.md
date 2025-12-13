@@ -4,7 +4,7 @@
 
 **ważne**
 *mniej ważne*
--raz
--dwa
+- raz
+- dwa
 
 <pre>```kodzi kodzi ```</pre>
