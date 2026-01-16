@@ -1,0 +1,4 @@
+Projekt dotyczy prostej aplikacji "To-Do List" dla studentów.
+Rozwiązuje problem zapominania o terminach zadań domowych.
+Odbiorcą są studenci, którzy potrzebują prostego narzędzia bez zbędnych funkcji.
+Główne funkcje: dodawanie zadań, odznaczanie zrobionych, lista priorytetów.

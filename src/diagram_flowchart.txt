@@ -1,0 +1,18 @@
+[START APLIKACJI]
+      |
+      V
+[EKRAN LOGOWANIA] ----> (Błąd logowania?) ----> [POKAŻ KOMUNIKAT]
+      |
+   (Sukces)
+      |
+      V
+[LISTA ZADAŃ (DASHBOARD)]
+      |
+      +---> [DODAJ NOWE ZADANIE]
+      |
+      +---> [USUŃ ZADANIE]
+      |
+      +---> [ZAZNACZ JAKO GOTOWE]
+      |
+      V
+ [WYLOGUJ]

@@ -1,0 +1,18 @@
+1. Inspiracje (słowa kluczowe):
+   - minimalizm
+   - produktywność
+   - "bullet journal"
+   - szybkość działania
+
+2. Krótka lista elementów projektu:
+   - Baza danych zadań (plik tekstowy lub SQL)
+   - Interfejs użytkownika (konsola lub proste okno)
+   - System powiadomień
+
+3. Wstępne dane wejściowe:
+   - Nazwa zadania
+   - Data wykonania
+   - Kategoria (Studia/Dom/Praca)
+
+4. Źródło pomysłu:
+   - Własna potrzeba lepszej organizacji czasu przed sesją.
